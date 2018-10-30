@@ -12,3 +12,41 @@ aws training:
 https://www.aws.training/Transcript?itemId=vb4g49vnfkm4r-ZHlhd9aQ2
 
 
+
+
+https://aws.amazon.com/training/course-descriptions/essentials/
+
+https://bespoke.qwiklabs.com/
+http://www.gilmore.ca/eVantageRegistration/
+
+online course content is here:
+https://evantage.gilmoreglobal.com/#/
+or
+https://online.vitalsource.com/#/
+
+trainer: Ajay Gulani -> ajay.g@bespoketraining.com
+
+next training:
+developing on aws:
+https://www.bespoketraining.com/courses/developing-on-aws/
+
+devops on aws:
+https://www.bespoketraining.com/courses/devops-engineering-on-aws/
+
+
+db instance: 
+
+lab-db.cqvjjd5qpc8a.ap-southeast-2.rds.amazonaws.com
+
+lab instructions are here: 
+https://bespoke.qwiklabs.com/classrooms/82?
+
+
+slides are here:
+
+=======
+aws training:
+https://www.aws.training/Transcript?itemId=vb4g49vnfkm4r-ZHlhd9aQ2
+
+
+
